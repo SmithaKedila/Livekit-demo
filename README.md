@@ -36,7 +36,7 @@ Navigate to your TwiML Bins page.
 (create sip username and password and replace that in the lines below where necessary and remember the credentials for later)
 (use the number you just bought on twilio for <your_phone_number> and replace string after @ with your SIP URI as seen on your livekit project)
 Create a TwiML Bin and add the following contents:
-
+https://docs.livekit.io/telephony/accepting-calls/inbound-twilio/#step-2-set-up-a-twiml-bin
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Dial>
